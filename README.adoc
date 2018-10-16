@@ -1,0 +1,3 @@
+= Xtext / Sirius Integration
+
+P2 repository at link:p2/[].
