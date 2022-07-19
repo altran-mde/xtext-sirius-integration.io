@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='XtextSirius'
+    type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='20220719160000'/>
+  </properties>
+  <children size='7'>
+    <child location='1.0/'/>
+    <child location='1.0.1/'/>
+    <child location='https://download.eclipse.org/releases/2018-09/'/>
+    <child location='https://download.eclipse.org/tools/orbit/downloads/drops/R20180905201904/repository/'/>
+    <child location='https://updates.yakindu.com/statecharts/releases/3.5.8/'/>
+    <child location='https://archive.eclipse.org/sirius/updates/releases/6.2.0/2018-09/'/>
+    <child location='https://download.eclipse.org/cbi/updates/license/'/>
+  </children>
+</repository>
