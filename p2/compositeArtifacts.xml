@@ -3,9 +3,10 @@
 <repository name='XtextSirius'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='20220719160000'/>
+    <property name='p2.timestamp' value='20241211130000'/>
   </properties>
-  <children size='7'>
+  <children size='8'>
+    <child location='1.1/'/>
     <child location='1.0/'/>
     <child location='1.0.1/'/>
     <child location='https://download.eclipse.org/releases/2018-09/'/>
